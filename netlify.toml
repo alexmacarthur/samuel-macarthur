@@ -1,0 +1,9 @@
+[[redirects]]
+from = "/js/numbers.js"
+status = 200
+to = "https://analytics.macarthur.me/js/script.js"
+
+[[redirects]]
+from = "/api/event"
+status = 202
+to = "https://analytics.macarthur.me/api/event"
